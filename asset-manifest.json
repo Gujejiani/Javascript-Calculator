@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/http//Gujejiani.github.io/Javascript-Calculator/static/css/main.1f91db79.chunk.css",
-    "main.js": "/http//Gujejiani.github.io/Javascript-Calculator/static/js/main.1e4da2df.chunk.js",
-    "main.js.map": "/http//Gujejiani.github.io/Javascript-Calculator/static/js/main.1e4da2df.chunk.js.map",
-    "runtime-main.js": "/http//Gujejiani.github.io/Javascript-Calculator/static/js/runtime-main.8c83d1cd.js",
-    "runtime-main.js.map": "/http//Gujejiani.github.io/Javascript-Calculator/static/js/runtime-main.8c83d1cd.js.map",
-    "static/js/2.9cd78dcf.chunk.js": "/http//Gujejiani.github.io/Javascript-Calculator/static/js/2.9cd78dcf.chunk.js",
-    "static/js/2.9cd78dcf.chunk.js.map": "/http//Gujejiani.github.io/Javascript-Calculator/static/js/2.9cd78dcf.chunk.js.map",
-    "index.html": "/http//Gujejiani.github.io/Javascript-Calculator/index.html",
-    "precache-manifest.0f5ba761d9cad0232c0c934a9667d8c6.js": "/http//Gujejiani.github.io/Javascript-Calculator/precache-manifest.0f5ba761d9cad0232c0c934a9667d8c6.js",
-    "service-worker.js": "/http//Gujejiani.github.io/Javascript-Calculator/service-worker.js",
-    "static/css/main.1f91db79.chunk.css.map": "/http//Gujejiani.github.io/Javascript-Calculator/static/css/main.1f91db79.chunk.css.map",
-    "static/js/2.9cd78dcf.chunk.js.LICENSE.txt": "/http//Gujejiani.github.io/Javascript-Calculator/static/js/2.9cd78dcf.chunk.js.LICENSE.txt"
+    "main.css": "/Javascript-Calculator/static/css/main.1f91db79.chunk.css",
+    "main.js": "/Javascript-Calculator/static/js/main.ebc44138.chunk.js",
+    "main.js.map": "/Javascript-Calculator/static/js/main.ebc44138.chunk.js.map",
+    "runtime-main.js": "/Javascript-Calculator/static/js/runtime-main.440e098b.js",
+    "runtime-main.js.map": "/Javascript-Calculator/static/js/runtime-main.440e098b.js.map",
+    "static/js/2.9cd78dcf.chunk.js": "/Javascript-Calculator/static/js/2.9cd78dcf.chunk.js",
+    "static/js/2.9cd78dcf.chunk.js.map": "/Javascript-Calculator/static/js/2.9cd78dcf.chunk.js.map",
+    "index.html": "/Javascript-Calculator/index.html",
+    "precache-manifest.6228b0c0167005c9734c9d1f7bbf9f0e.js": "/Javascript-Calculator/precache-manifest.6228b0c0167005c9734c9d1f7bbf9f0e.js",
+    "service-worker.js": "/Javascript-Calculator/service-worker.js",
+    "static/css/main.1f91db79.chunk.css.map": "/Javascript-Calculator/static/css/main.1f91db79.chunk.css.map",
+    "static/js/2.9cd78dcf.chunk.js.LICENSE.txt": "/Javascript-Calculator/static/js/2.9cd78dcf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8c83d1cd.js",
+    "static/js/runtime-main.440e098b.js",
     "static/js/2.9cd78dcf.chunk.js",
     "static/css/main.1f91db79.chunk.css",
-    "static/js/main.1e4da2df.chunk.js"
+    "static/js/main.ebc44138.chunk.js"
   ]
 }
